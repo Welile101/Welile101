@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Welile101
-- 👀 I’m interested in becoming a Cyber Security analyst or Digital marketing manager.
-- 🌱 I’m currently learning Introductory courses to learn programming languages on the Sololearn app.
-- 💞️ I’m looking to collaborate on creating an event/function app
-- 📫 You can reach me on my email: weliledube1@gmail.com and contact number: 0671429644
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am proudly the most boring person on the planet. 
+- 👀 I’m interested in...
+- 🌱 I’m currently learning...
+- 💞️ I’m looking to collaborate... 
+- 📫 You can reach me on...
+- 😄 Pronouns:...
+- ⚡ Fun fact:..
 
 <!---
 Welile101/Welile101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
