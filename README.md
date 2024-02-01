@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating an event/function app
 - 📫 You can reach me on my email: weliledube1@gmail.com and contact number: 0671429644
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: The most boring person on the planet. 
+- ⚡ Fun fact: I am proudly the most boring person on the planet. 
 
 <!---
 Welile101/Welile101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
